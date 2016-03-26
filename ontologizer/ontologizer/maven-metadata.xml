@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>de.ontologizer</groupId>
+  <groupId>ontologizer</groupId>
   <artifactId>ontologizer</artifactId>
   <versioning>
     <versions>
